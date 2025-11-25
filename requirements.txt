@@ -13,3 +13,4 @@ sentence-transformers
 fastapi
 uvicorn
 flask
+langchain-classic
