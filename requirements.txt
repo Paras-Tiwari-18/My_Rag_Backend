@@ -1,0 +1,14 @@
+langchain==0.2.12
+langchain-core==0.2.27
+langchain-community==0.2.6
+langchain-text-splitters==0.2.2
+langchainhub
+langchain_groq
+chromadb
+faiss-cpu
+pypdf
+tiktoken
+python-dotenv
+sentence-transformers
+fastapi
+uvicorn
